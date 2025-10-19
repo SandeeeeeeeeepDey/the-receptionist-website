@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/the-receptionist-website/static/css/main.8e949d02.css",
+    "main.js": "/the-receptionist-website/static/js/main.e69c5649.js",
+    "index.html": "/the-receptionist-website/index.html",
+    "main.8e949d02.css.map": "/the-receptionist-website/static/css/main.8e949d02.css.map",
+    "main.e69c5649.js.map": "/the-receptionist-website/static/js/main.e69c5649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e949d02.css",
+    "static/js/main.e69c5649.js"
+  ]
+}
