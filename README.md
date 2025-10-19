@@ -170,3 +170,9 @@ This project is created for demonstration purposes. All rights reserved.
 ---
 
 Built with ❤️ for rural healthcare providers worldwide.
+
+## 🚀 Live Website
+
+Your website is now live at: **[https://sandeeeeeeeeepdey.github.io/the-receptionist-website](https://sandeeeeeeeeepdey.github.io/the-receptionist-website)**
+
+*Last updated: January 2025*
